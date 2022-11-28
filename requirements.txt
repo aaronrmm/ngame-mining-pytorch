@@ -1,0 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch
+faiss-cpu==1.7.2
+sentence-transformers==2.2.2
